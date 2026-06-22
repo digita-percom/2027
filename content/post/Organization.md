@@ -1,7 +1,7 @@
 ---
 showonlyimage: true
 title: "Organization"
-subtitle: "The DIGITA 2026 Organization Team"
+subtitle: "The DIGITA 2027 Organization Team"
 excerpt: "Call for papers"
 description: "The call for papers is out"
 date: 2024-06-16

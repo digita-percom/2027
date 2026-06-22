@@ -11,7 +11,6 @@ URL: "/previous"
 ---
 # Previous Events
 
-This workshop is the second edition of DIGITA @ PerCom. 
-Last year (2025), we held the first edition of the Workshop in Washington, D.C. receiving a total of 15 submissions out of which 9 papers were accepted for presentation.
+This workshop is the third edition of DIGITA @ PerCom. We continue to pursue the goal of providing a forum for researchers and practitioners to discuss the latest advances in the field of Digital Twins and Digital Twin Ecosystems, with a particular focus on their application in the context of pervasive computing and communication systems.
 
 Check out the history of DIGITA [here](https://digita-percom.github.io).

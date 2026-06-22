@@ -1,7 +1,7 @@
 ---
 showonlyimage: true
 title: "Call for papers"
-subtitle: "Contribute to DIGITA 2026!"
+subtitle: "Contribute to DIGITA 2027!"
 excerpt: "Call for Papers"
 description: "The call for papers is out"
 date: 2024-06-13
@@ -45,11 +45,11 @@ All submissions will undergo a peer-review process by Program Commitee members i
 
 All accepted papers will be published as part of the PerCom satellite events proceedings. Proceedings will be published by the IEEE and available online through IEEE Digital Library. 
 
-**Submission deadline: ~~November 17th 2025~~ <span class="red">December 7th, 2025</span>**
+**Submission deadline: November 17th 2026**
 <!--{.red}-->
 <!-- <div class="newsbox yellow"> To facilitate the workshop organization and the review process, we invite contributors to submit their abstract by <div><b>November 24th, 2024</b></div> </div> -->
 
-You can submit your paper on EDAS by clicking [here](https://edas.info/N34013)
+<!-- You can submit your paper on EDAS by clicking [here](https://edas.info/N34013) -->
 
 **Important**: each accepted paper requires a full PerCom registration and at least one author attending the workshop to present it (no registration is available for workshops only).
  <span class="red">Papers without a valid full registration or that are not presented in-person will be excluded from the proceedings.</span>

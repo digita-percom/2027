@@ -11,8 +11,8 @@ URL: "/accepted"
 ---
 # Accepted Papers
 
-<!-- Accepted papers will be listed here. -->
-
+Accepted papers will be listed here.
+<!-- 
 We received a total of 23 submissions to the workshop, out of which we accepted 12 for presentation.
 We thank all authors and reviewers for their contribution to the DIGITA Workshop.
 
@@ -47,4 +47,4 @@ table th:nth-of-type(4) {
 | Danila Romanov; Hui Cheng; Victoria Degeler | *Digital Twins of Smart Buildings: Technical Solutions and Challenges* |
 | Marek Michalski | *Digital Twin as a Virtual Platform for Security Analysis in log2 N Switching Fabrics* |
 | Marco Picone; Samuele Burattini; Marco Melloni; Prasad Talasila; Davide Ziglioli; Matteo Martinelli; Nicola Bicocchi; Peter Larsen | *A Multi-Simulation Bridge for IoT Digital Twins* |
-
+ -->

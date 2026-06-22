@@ -13,7 +13,10 @@ URL: "/program"
 
 # Program
 
-The workshop will be a full day workshop on the **16th of March 2026** 
+The workshop program will be published here. 
+
+<!-- 
+The workshop will be a full day workshop on the **16th of March 2027** 
 <style>
     table {
         width: 100%;
@@ -97,7 +100,7 @@ Department of Information Engineering, University of Pisa, Pisa, Italy
 antonio.virdis@unipi.it
 
 <div style="float: right; width: 30%; padding:0px 50px 0px 30px;">
-    <img src="/2026/img/antonio.jpeg" alt="Keynote Speaker: Antonio Virdis">
+    <img src="/2027/img/antonio.jpeg" alt="Keynote Speaker: Antonio Virdis">
     <p style="font-size: small;">Keynote Speaker: Antonio Virdis.</p>
 </div>
 
@@ -111,4 +114,4 @@ Building on these pillars, I present a blueprint platform architecture that inte
 
 Antonio Virdis is Associate Professor at the University of Pisa, where he obtained his MSc degree in Computer System Engineering in 2011, and his PhD in Information Engineering in 2015. His research interests include Quality of Service, Edge Computing, network simulation and performance evaluation. He co-authored more than 90 peer-reviewed papers and 8 patents in the above fields. He led and has been involved in research projects supported by private industries and funded by the EU community and by Italian MUR.
 
-Among recent projects, he served as principal investigator for <a href="https://unipisa.github.io/DATRUST/" target="_blank">DATRUST</a> (Connecting the physical and DigitAl worlds through TRUSTworthy data-flows) and as the University of Pisa lead for <a href="https://twinkle-project.github.io/" target="_blank">TWINKLE</a> (digital TWIN continuum: a Key enabler for pervasive cyber-physicaL Environments), funded under the PRIN PNRR 2022 and PRIN PNRR programmes, respectively; both projects focus on the design and orchestration of digital twins. He served as TPC chair for the International OMNeT++ Summit, and for the IEEE SmartSys workshop, and as a member of the TPC for more than 20 international conferences. He is also one of the founders and co-chairs of the TwinNets Workshop. He is one of the authors and maintainers of the SimuLTE and Simu5G opensource projects, for the system-level simulation of 4G and 5G communication networks.
+Among recent projects, he served as principal investigator for <a href="https://unipisa.github.io/DATRUST/" target="_blank">DATRUST</a> (Connecting the physical and DigitAl worlds through TRUSTworthy data-flows) and as the University of Pisa lead for <a href="https://twinkle-project.github.io/" target="_blank">TWINKLE</a> (digital TWIN continuum: a Key enabler for pervasive cyber-physicaL Environments), funded under the PRIN PNRR 2022 and PRIN PNRR programmes, respectively; both projects focus on the design and orchestration of digital twins. He served as TPC chair for the International OMNeT++ Summit, and for the IEEE SmartSys workshop, and as a member of the TPC for more than 20 international conferences. He is also one of the founders and co-chairs of the TwinNets Workshop. He is one of the authors and maintainers of the SimuLTE and Simu5G opensource projects, for the system-level simulation of 4G and 5G communication networks. -->
