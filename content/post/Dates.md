@@ -6,7 +6,7 @@ excerpt: "Dates"
 description: "The call for papers is out"
 date: 2024-06-16
 author: "Sara Montagna, Marco Picone, Samuele Burattini"
-image: "img/pisa.jpg"
+image: "img/goa.jpg"
 URL: "/dates"
 ---
 
