@@ -6,7 +6,7 @@ excerpt: "Call for Papers"
 description: "The call for papers is out"
 date: 2024-06-13
 author: "Sara Montagna, Marco Picone, Samuele Burattini"
-image: "img/pisa.jpg"
+image: "img/goa.jpg"
 URL: "/cfp"
 ---
 
