@@ -49,7 +49,7 @@ All accepted papers will be published as part of the PerCom satellite events pro
 <!--{.red}-->
 <!-- <div class="newsbox yellow"> To facilitate the workshop organization and the review process, we invite contributors to submit their abstract by <div><b>November 24th, 2024</b></div> </div> -->
 
-<!-- You can submit your paper on EDAS by clicking [here](https://edas.info/N34013) -->
+You can submit your paper on HotCRP by clicking [here](https://digita27.hotcrp.com) 
 
 **Important**: each accepted paper requires a full PerCom registration and at least one author attending the workshop to present it (no registration is available for workshops only).
  <span class="red">Papers without a valid full registration or that are not presented in-person will be excluded from the proceedings.</span>
